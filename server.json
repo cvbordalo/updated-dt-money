@@ -18,11 +18,19 @@
     },
     {
       "id": 3,
-      "description": "Ignite Rocketseat",
+      "description": "Curso de React Native",
       "type": "outcome",
       "category": "Educação",
       "price": 1980,
       "createdAt": "2022-07-29T19:24:44.505Z"
+    },
+    {
+      "description": "Venda de computador",
+      "price": 3000,
+      "category": "Vendas",
+      "type": "income",
+      "createdAt": "2023-01-10T19:57:18.590Z",
+      "id": 4
     }
   ]
 }
