@@ -31,6 +31,14 @@
       "type": "income",
       "createdAt": "2023-01-10T19:57:18.590Z",
       "id": 4
+    },
+    {
+      "description": "Aspirador de pó",
+      "price": 200,
+      "category": "Compras",
+      "type": "outcome",
+      "createdAt": "2023-01-10T22:12:56.657Z",
+      "id": 5
     }
   ]
 }
